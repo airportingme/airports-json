@@ -1,0 +1,16 @@
+# Composer
+composer.lock
+composer.phar
+vendor
+
+# Eclipse
+.buildpath
+.project
+.settings
+
+# phpDocumentor 2
+docs
+
+# Vagrant
+.vagrant
+Vagrantfile
